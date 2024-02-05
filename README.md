@@ -16,4 +16,4 @@ throw Whoops().attribute(
 )
 ```
 
-See more in [the documentation](http://stansmida.github.io/swift-error-kit).
+See more in [the documentation](http://stansmida.github.io/swift-error-kit/documentation/swifterrorkit).
