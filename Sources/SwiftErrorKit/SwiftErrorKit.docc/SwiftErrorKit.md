@@ -4,7 +4,7 @@ Error attribution and commons.
 
 #### _SwiftErrorKit_ is distributed as a _SwiftPM_ package 
 
-[Go to package page: https://github.com/stansmida/swift-error-kit.git](https://github.com/stansmida/swift-error-kit.git)
+[Go to the package page: https://github.com/stansmida/swift-error-kit.git](https://github.com/stansmida/swift-error-kit.git)
 
 
 ## Overview

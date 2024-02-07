@@ -5,7 +5,8 @@ import PackageDescription
 
 let package = Package(
     name: "swift-error-kit",
-    platforms: [.macOS(.v14), .iOS(.v13), .tvOS(.v13), .watchOS(.v6), .macCatalyst(.v13)],
+    // Parameter packs in generic types are only available on these platforms.
+    platforms: [.macOS(.v14), .iOS(.v17), .tvOS(.v17), .watchOS(.v10), .macCatalyst(.v17)],
     products: [
         // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
